@@ -1,5 +1,28 @@
 # Change Log
 
+## 2.3.6
+
+### Patch Changes
+
+- Updated dependencies
+  [[`6d3178273`](https://github.com/chakra-ui/chakra-ui/commit/6d3178273dd7742cd14d5902606c70cdd9adb0d3),
+  [`83df0142c`](https://github.com/chakra-ui/chakra-ui/commit/83df0142cba98dd969f16a493888cb13c4b7b4fe),
+  [`ed7f878b3`](https://github.com/chakra-ui/chakra-ui/commit/ed7f878b3463cc5a83d67a7aed6dd6fc5a0570f6),
+  [`91698604c`](https://github.com/chakra-ui/chakra-ui/commit/91698604c78a360b90a946c2f2072c514c98ebc5),
+  [`5e44868ed`](https://github.com/chakra-ui/chakra-ui/commit/5e44868ed0b86b15ef7892a249a24865d900fe57)]:
+  - @chakra-ui/toast@3.0.14
+  - @chakra-ui/breadcrumb@2.1.0
+  - @chakra-ui/hooks@2.1.0
+  - @chakra-ui/checkbox@2.2.2
+  - @chakra-ui/theme-utils@2.0.1
+  - @chakra-ui/input@2.0.11
+  - @chakra-ui/modal@2.2.1
+  - @chakra-ui/popover@2.1.1
+  - @chakra-ui/popper@3.0.8
+  - @chakra-ui/tooltip@2.2.0
+  - @chakra-ui/transition@2.0.10
+  - @chakra-ui/switch@2.0.14
+
 ## 2.3.5
 
 ### Patch Changes

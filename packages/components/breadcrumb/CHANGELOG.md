@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.1.0
+
+### Minor Changes
+
+- [`83df0142c`](https://github.com/chakra-ui/chakra-ui/commit/83df0142cba98dd969f16a493888cb13c4b7b4fe)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Expose `listProps`
+  to allow passing props to underlying breadcrumb list element
+
 ## 2.0.10
 
 ### Patch Changes
